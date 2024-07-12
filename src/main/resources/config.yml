@@ -1,0 +1,125 @@
+command: rngreward
+ - reward-id: 0
+   cost: minecraft:diamond
+   cost-quantity: 3
+   possible-rewards:
+   - id: 0
+     quantity: 10
+     item: minecraft:iron_ingot
+     weight: 1000
+   - id: 1
+     quantity: 1
+     item: minecraft:netherite_hoe
+     weight: 1000
+   - id: 2
+     quantity: 5
+     item: minecraft:gold_ingot
+     weight: 300
+   - id: 3
+     quantity: 1
+     item: minecraft:totem_of_undying
+     weight: 100
+   - id: 4
+     quantity: 2
+     item: minecraft:bamboo
+     weight: 100
+   - id: 5
+     quantity: 8
+     item: minecraft:pufferfish
+     weight: 3000
+   - id: 6
+     quantity: 16
+     item: minecraft:grass_block
+     weight: 2000
+   - id: 7
+     quantity: 5
+     item: minecraft:jungle_sapling
+     weight: 200
+   - id: 8
+     quantity: 1
+     item: minecraft:sponge
+     weight: 300
+   - id: 9
+     quantity: 1
+     item: minecraft:end_portal_frame
+     weight: 20
+   - id: 10
+     quantity: 1
+     item: minecraft:ender_chest
+     weight: 200
+   - id: 11
+     quantity: 1
+     item: minecraft:chipped_anvil
+     weight: 1000
+   - id: 12
+     quantity: 1
+     item: minecraft:coal_block
+     weight: 500
+   - id: 13
+     quantity: 5
+     item: minecraft:apple
+     weight: 1000
+   - id: 14
+     quantity: 16
+     item: minecraft:poisonous_potato
+     weight: 3500
+   - id: 15
+     quantity: 1
+     item: minecraft:ancient_debris
+     weight: 200
+   - id: 16
+     quantity: 3
+     item: minecraft:tnt
+     weight: 300
+   - id: 17
+     quantity: 1
+     item: minecraft:dragon_egg
+     weight: 50
+   - id: 18
+     quantity: 1
+     item: minecraft:anvil
+     weight: 200
+   - id: 19
+     quantity: 5
+     item: minecraft:hopper
+     weight: 500
+   - id: 20
+     quantity: 5
+     item: minecraft:hay_block
+     weight: 1000
+   - id: 21
+     quantity: 1
+     item: minecraft:command_block
+     weight: 20
+   - id: 22
+     quantity: 8
+     item: minecraft:lapis_lazuli
+     weight: 500
+   - id: 23
+     quantity: 16
+     item: minecraft:iron_nugget
+     weight: 2000
+   - id: 24
+     quantity: 5
+     item: minecraft:golden_carrot
+     weight: 200
+   - id: 25
+     quantity: 1
+     item: minecraft:ender_pearl
+     weight: 400
+   - id: 26
+     quantity: 16
+     item: minecraft:brick
+     weight: 800
+ - reward-id: 1
+   cost: minecraft:netherite
+   cost-quantity:
+   possible-rewards:
+   - id: 0
+     quantity: 10
+     item: minecraft:iron_ingot
+     weight: 1000
+   - id: 1
+     quantity: 1
+     item: minecraft:netherite_hoe
+     weight: 1000
